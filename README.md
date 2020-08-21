@@ -1,3 +1,3 @@
-# Chauser.github.io
+# Welcome to my Ted Talk
 
 I believe this is my first webpage, not entirely sure how to publish this but we'll get there!
